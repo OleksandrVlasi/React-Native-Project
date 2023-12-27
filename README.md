@@ -2,7 +2,7 @@
 > View News Headlines from over 200 sources.
 
 [![NPM Version][npm-image]][npm-url]
-[![Maintainability](https://api.codeclimate.com/v1/badges/18202ee92e95c0c751b9/maintainability)](https://codeclimate.com/github/andela-ojoloko/React-Native-Newsfeed/maintainability)
+[![Maintainability](https://api.codeclimate.com/v1/badges/18202ee92e95c0c751b9/maintainability)](https://codeclimate.com/github/OleksandrVlasi/React-Native-Project/maintainability)
 
 This is a news feed react native application that enables you view News Headlines from over 200 sources. It consumes the [News API](https://newsapi.org)
 
@@ -35,7 +35,7 @@ A step by step series of examples that tell you have to get a development env ru
 - **Clone this repo**: Enter this command in the terminal:
 
 ``` bash
-git clone  https://github.com/andela-ojoloko/React-Native-Newsfeed.git
+git clone  https://github.com/OleksandrVlasi/React-Native-Project.git
 ```
 
 - **Install dependencies** : Do so by running the following command:
